@@ -1,0 +1,12 @@
+module SDRAMController 
+( 
+	input             CLK,
+	input             CKE,
+	input             CS,
+	input             WE,
+	input             CAS,
+	input             RAS,
+	inout      [15:0] S_DQ, 
+	output reg [11:0] S_A, 
+	output reg [ 1:0] SD_BS
+);

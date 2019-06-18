@@ -1,0 +1,106 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\AllenDomar\Documents\Quartus_II_Projects\SDRAMController\simulation\modelsim
+vSDRAMController
+IezbRdGz;mjDjKDWU3>:l<2
+Vj3OCW[Ngjz[1zlL@<4FZa1
+Z1 dC:\Users\AllenDomar\Documents\Quartus_II_Projects\SDRAMController\simulation\modelsim
+w1545684409
+8C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/SDRAMController.v
+FC:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/SDRAMController.v
+L0 3
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController -O0
+n@s@d@r@a@m@controller
+!i10b 1
+!s100 nhSSLk^C33PPlJKC[<F[O0
+!s85 0
+!s108 1545827853.277000
+!s107 C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_sdram_settings.vh|C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/SDRAMController.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController|C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/SDRAMController.v|
+!s101 -O0
+vsm_altpll
+I5nk0O6HYC2@H30CX7J[a:1
+Vn<CO;lgHIeYH;I=0`>29[1
+R1
+w1544395748
+8C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_altpll.v
+FC:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_altpll.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 L_[bCBWg20n0eL97Z8eO30
+!s85 0
+!s108 1545827852.950000
+!s107 C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController|C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_altpll.v|
+!s101 -O0
+vsm_altpll_altpll
+IYW<DO_IZ:n>YlAL:@[bO:2
+V47gOSki9RFGN5ESe1fgfE3
+R1
+w1544395755
+8C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/db/sm_altpll_altpll.v
+FC:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/db/sm_altpll_altpll.v
+L0 29
+R2
+r1
+31
+R3
+!i10b 1
+!s100 f0e_fGTa0`Q>N_[59@e@62
+!s85 0
+!s108 1545827853.114000
+!s107 C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/db/sm_altpll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/db|C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/db/sm_altpll_altpll.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/db -O0
+vsm_sdram_controller
+IGMkmkdeIa5UDYER0]R=GW1
+V[cQOa0R<0z=ITbXeF@QZI3
+R1
+w1545674243
+8C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_sdram_controller.v
+FC:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_sdram_controller.v
+L0 4
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 c<kaR1CaUTbONfV<DoG5j2
+!s85 0
+!s108 1545827853.484000
+!s107 C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_sdram_settings.vh|C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_sdram_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController|C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_sdram_controller.v|
+!s101 -O0
+vtestbench
+!i10b 1
+!s100 ePRFUKJ_<AN@5KQ[ccX2i3
+IdJQbhLe88AeaaadDV;59n2
+V0Q9n0EAYd5Cm@AHNiXYnA0
+R1
+w1545684106
+8C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/testbench.v
+FC:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/testbench.v
+L0 4
+R2
+r1
+!s85 0
+31
+!s108 1545827853.742000
+!s107 C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/sm_sdram_settings.vh|C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController|C:/Users/AllenDomar/Documents/Quartus_II_Projects/SDRAMController/testbench.v|
+!s101 -O0
+R3
+R4

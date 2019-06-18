@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="SDRAMController">
+		<CBX_INST_ENTRY INSTANCE_NAME="|SDRAMController|sm_altpll:altpll|altpll:altpll_component" CBX_FILE_NAME="sm_altpll_altpll.v"/>
+	</PROJECT>
+</LOG_ROOT>

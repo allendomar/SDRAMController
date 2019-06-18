@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Jun 18 02:20:55 2019
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : SDRAMController
+Top-level Entity Name : SDRAMController
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 204 / 6,272 ( 3 % )
+    Total combinational functions : 158 / 6,272 ( 3 % )
+    Dedicated logic registers : 136 / 6,272 ( 2 % )
+Total registers : 136
+Total pins : 49 / 92 ( 53 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

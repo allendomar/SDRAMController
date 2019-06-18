@@ -1,0 +1,14 @@
+module sm_sdram_controller
+(
+	input        SD_CLK,
+	input        SD_CKE, // not active
+	input        SD_CS,
+	input        SD_WE,
+	input        SD_CAS,
+	input        SD_RAS,
+	input        SD_LDQM,
+	input        SD_UDQM,
+	input [ 1:0] SD_BS // bank address
+	input [11:0] S_A, // row address
+	inout [15:0] S_DQ
+);
